@@ -1,5 +1,5 @@
 <div id="header">
-  <h1 align="center">Hi 👋, I'm Foysal Ahmmed Limon</h1>
+  <h1 align="center">Hi there 👋, I'm Foysal Ahmmed Limon</h1>
 </div>
 <div id="banner" align="center">
   <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/banner/programmer.gif" />
@@ -12,8 +12,17 @@
 
 <div id="stats" align="center">
   <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifoysalahmmed&theme=react&fire=FFA500&currStreakNum=FFA500&ring=FFA500&currStreakLabel=FFA500" alt="ifoysalahmmed" />
+  <img align="center" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ifoysalahmmed&theme=react&hide_border=true&fire=FFA500&currStreakNum=FFA500&ring=FFA500&currStreakLabel=FFA500" />
 </div>
+
+## ➡️ Reach me out
+
+
+
+<!--
+
+
 
 
 <!--
