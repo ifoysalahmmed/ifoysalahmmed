@@ -25,7 +25,6 @@
   
   [<img height="80" src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/social/LinkedIn.png"/>](https://www.linkedin.com/in/ifoysalahmmed/)
   [<img height="80" src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/social/Facebook.png"/>](https://www.facebook.com/foysal.amd/)
-  [<img height="82" src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/social/Email.png"/>](ifoysalahmmed@gmail.com)
 </div>
 
 ## 🛠️ Technologies that I know
@@ -55,12 +54,13 @@
 </div>
 
 
-## 👀 Current Overview
+## 👀 About Me
 
 <div>
 
   ### 🌱 I’m currently - Learning Material UI
   ### 👯 I’m looking - To collaborate on open-source projects.
   ### 📖 I’m looking - For help increasing knowledge in web development.
+  ### 📧 Email me - ***ifoysalahmmed@gmail.com***
   ### ⚡ Fun fact - I don't watch TV
 </div>
