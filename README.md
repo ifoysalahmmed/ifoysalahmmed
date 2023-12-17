@@ -12,13 +12,55 @@
 
 <div id="stats" align="center">
   <br>
-  <img align="center" 
+  <img align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=ifoysalahmmed&theme=react&hide_border=true&fire=FFA500&currStreakNum=FFA500&ring=FFA500&currStreakLabel=FFA500" />
 </div>
 
 ## ➡️ Reach me out
 
+<div id="social" align="center">
+  
+  [<img height="80" src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/social/LinkedIn.png"/>](https://www.linkedin.com/in/ifoysalahmmed/)
+  [<img height="80" src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/social/Facebook.png"/>](https://www.facebook.com/foysal.amd/)
+</div>
 
+## 🛠️ Technologies that I know
+
+<div id="technology" align="center">
+  <div>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/HTML.png"/>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/css.png"/>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/tailwind.png"/>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/bootstrap.png"/>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/sass.png"/>
+  </div>
+  <br>
+  <div>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/JavaScript.png"/>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/react.png"/>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/firebase.png"/>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/redux.png"/>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/c.png"/>
+  </div>
+  <br>
+  <div>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/node.png"/>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/express.png"/>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/mongo.png"/>
+  </div>
+</div>
+
+
+## 👀 Current Overview
+
+<div>
+
+  ### 🌱 I’m currently learning - React Native
+
+  ### 💬 Ask me about - MERN
+
+  ### ⚡ Fun fact - I don't watch TV
+</div>
 
 <!--
 
