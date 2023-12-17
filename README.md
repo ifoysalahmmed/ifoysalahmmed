@@ -14,6 +14,9 @@
   <br>
   <img align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=ifoysalahmmed&theme=react&hide_border=true&fire=FFA500&currStreakNum=FFA500&ring=FFA500&currStreakLabel=FFA500" />
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifoysalahmmed&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" />
 </div>
 
 ## ➡️ Reach me out
@@ -22,6 +25,7 @@
   
   [<img height="80" src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/social/LinkedIn.png"/>](https://www.linkedin.com/in/ifoysalahmmed/)
   [<img height="80" src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/social/Facebook.png"/>](https://www.facebook.com/foysal.amd/)
+  [<img height="82" src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/social/Email.png"/>](ifoysalahmmed@gmail.com)
 </div>
 
 ## 🛠️ Technologies that I know
@@ -55,29 +59,8 @@
 
 <div>
 
-  ### 🌱 I’m currently learning - React Native
-
-  ### 💬 Ask me about - MERN
-
+  ### 🌱 I’m currently - Learning Material UI
+  ### 👯 I’m looking - To collaborate on open-source projects.
+  ### 📖 I’m looking - For help increasing knowledge in web development.
   ### ⚡ Fun fact - I don't watch TV
 </div>
-
-<!--
-
-
-
-
-<!--
-**ifoysalahmmed/ifoysalahmmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
