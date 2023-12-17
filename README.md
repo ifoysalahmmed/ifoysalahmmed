@@ -1,4 +1,12 @@
-### Hi there 👋
+<div id="header" align="center">
+
+# Hi 👋, I'm Foysal Ahmmed Limon
+
+</div>
+
+<div id="banner" align="center">
+  <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/banner/programmer.gif" />
+</div>
 
 <!--
 **ifoysalahmmed/ifoysalahmmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
