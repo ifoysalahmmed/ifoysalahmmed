@@ -1,12 +1,20 @@
-<div id="header" align="center">
-
-# Hi 👋, I'm Foysal Ahmmed Limon
-
+<div id="header">
+  <h1 align="center">Hi 👋, I'm Foysal Ahmmed Limon</h1>
 </div>
-
 <div id="banner" align="center">
   <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/banner/programmer.gif" />
+  <br>
+  <h3>A passionate Frontend Developer💻 from Bangladesh</h3>
+  <img src="https://komarev.com/ghpvc/?username=ifoysalahmmed&color=008B8B&style=flat-square&label=PROFILE+VIEWS" alt="ifoysalahmmed" />
 </div>
+
+## 📈 Current Stats
+
+<div id="stats" align="center">
+  <br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ifoysalahmmed&theme=react&fire=FFA500&currStreakNum=FFA500&ring=FFA500&currStreakLabel=FFA500" alt="ifoysalahmmed" />
+</div>
+
 
 <!--
 **ifoysalahmmed/ifoysalahmmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
