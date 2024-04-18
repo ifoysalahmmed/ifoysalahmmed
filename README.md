@@ -60,9 +60,9 @@
 
 <div>
 
-  ### 🌱 I’m currently - Learning Material UI
+  ### 🌱 I’m currently - Learning Software Quality Assurance
   ### 👯 I’m looking - To collaborate on open-source projects.
-  ### 📖 I’m looking - For help increasing knowledge in web development.
+  ### 📖 I’m looking - For help increasing knowledge in SQA.
   ### 📧 Email me - ***ifoysalahmmed@gmail.com***
   ### ⚡ Fun fact - I don't watch TV
 </div>
