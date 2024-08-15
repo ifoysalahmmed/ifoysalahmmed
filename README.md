@@ -31,6 +31,26 @@
 
 <div id="technology" align="center">
   <div>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/c.png"/>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/java.png"/>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/JavaScript.png"/>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/python.png"/>
+  </div>
+  <br>
+  <div>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/jmeter.png"/>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/postman.png"/>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/selenium.png"/>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/playwright.png"/>
+  </div>
+  <br>
+  <div>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/mysql.png"/>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/mongo.png"/>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/microsoft.png"/>
+  </div>
+  <br>
+  <div>
     <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/HTML.png"/>
     <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/css.png"/>
     <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/tailwind.png"/>
@@ -39,18 +59,18 @@
   </div>
   <br>
   <div>
-    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/JavaScript.png"/>
     <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/react.png"/>
     <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/firebase.png"/>
     <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/redux.png"/>
-    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/c.png"/>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/nodejs.png"/>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/express.png"/>
   </div>
   <br>
   <div>
-    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/node.png"/>
-    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/express.png"/>
-    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/mongo.png"/>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/git.png"/>
+    <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/technology/github.png"/>
   </div>
+  
 </div>
 
 <!-- BLOG-POST-LIST:START -->
