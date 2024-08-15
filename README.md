@@ -80,7 +80,7 @@
 
 <div>
 
-  ### 🌱 I’m currently - Learning Software Quality Assurance
+  ### 🌱 I’m currently - Working as Software Quality Assurance Engineer
   ### 👯 I’m looking - To collaborate on open-source projects.
   ### 📖 I’m looking - For help increasing knowledge in SQA.
   ### 📧 Email me - ***ifoysalahmmed@gmail.com***
