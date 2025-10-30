@@ -4,7 +4,7 @@
 <div id="banner" align="center">
   <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/banner/programmer.gif" />
   <br>
-  <h3>A passionate Software QA Engineer💻 from Bangladesh</h3>
+  <h3>A passionate Software Engineer💻 from Bangladesh</h3>
   <img src="https://komarev.com/ghpvc/?username=ifoysalahmmed&color=008B8B&style=flat-square&label=PROFILE+VIEWS" alt="ifoysalahmmed" />
 </div>
 
