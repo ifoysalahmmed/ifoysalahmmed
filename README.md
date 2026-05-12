@@ -80,9 +80,9 @@
 
 <div>
 
-  ### 🌱 I’m currently - Working as Software Engineer
+  ### 🌱 I’m currently - Working as a Software Engineer
   ### 👯 I’m looking - To collaborate on open-source projects.
-  ### 📖 I’m looking - For help increasing knowledge in SQA.
+  ### 📖 I’m looking - For help increasing knowledge in Backend Development.
   ### 📧 Email me - ***ifoysalahmmed@gmail.com***
-  ### ⚡ Fun fact - I don't watch TV
+  
 </div>
