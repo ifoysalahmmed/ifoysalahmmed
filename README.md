@@ -5,7 +5,7 @@
   <img src="https://github.com/ifoysalahmmed/ifoysalahmmed/blob/main/images/banner/programmer.gif" />
   <br>
   <h3>A passionate Software Engineer💻 from Bangladesh</h3>
-  <img src="https://komarev.com/ghpvc/?username=ifoysalahmmed&color=008B8B&style=flat-square&label=PROFILE+VIEWS" alt="ifoysalahmmed" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=ifoysalahmmed&color=008B8B&style=flat-square&label=PROFILE+VIEWS" alt="ifoysalahmmed" /> -->
 </div>
 
 ## 📈 Current Stats
@@ -16,7 +16,7 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=ifoysalahmmed&theme=react&hide_border=true&fire=FFA500&currStreakNum=FFA500&ring=FFA500&currStreakLabel=FFA500" />
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifoysalahmmed&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifoysalahmmed&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" /> -->
 </div>
 
 ## ➡️ Reach me out
